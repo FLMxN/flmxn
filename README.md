@@ -31,7 +31,8 @@
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)
 
----
+</div>
+<div align="center">
 
 ## for business inquiries
 
