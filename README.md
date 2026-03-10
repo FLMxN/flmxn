@@ -36,4 +36,4 @@
 ## for business inquiries
 
 [![Telegram](https://img.shields.io/badge/@flmxn-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/flmxn)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](discordapp.com/users/575294560134234133)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/575294560134234133)
