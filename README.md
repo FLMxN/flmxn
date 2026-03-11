@@ -6,7 +6,7 @@
 
 <div align="left">
   
-## "autistic hyperfixations"
+## "autistic_applications.json"
 
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
@@ -21,7 +21,7 @@
 
 ---
 
-## "let us discuss the future"
+## "adhd_ambitions.csv"
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
