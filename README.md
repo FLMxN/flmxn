@@ -28,7 +28,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)
 
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)]
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 
 </div>
 <div align="center">
