@@ -1,7 +1,7 @@
 <div align="right">
   <h1><i>"i can do anything i want... and so can you."</i></h1>
   <img src="https://github.com/FLMxN/flmxn/blob/main/furuta_header.jpg" width=512/>
-  <p><b>systems ~ ml/ds ~ infra</b></p>
+  <p><b>systems ~ quant ~ infra</b></p>
 </div>
 
 <div align="left">
