@@ -3,7 +3,6 @@
   <p>— Mark Hanna (The Wolf of Wall Street, 2013)</p></h2>
   <!-- <img src="https://github.com/FLMxN/flmxn/blob/main/furuta_header.jpg" width=512/> -->
   <img src="https://github.com/FLMxN/flmxn/blob/main/jules.gif" width=512/>
-  <p><b>quant ~ deep learning ~ systems</b></p>
 </div>
 
 <div align="left">
