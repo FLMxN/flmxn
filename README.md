@@ -44,21 +44,21 @@
 
 ## feats @ research & development
 
-**Deep Learning, CNNs, XAI Research** —> @ [Kopernik](https://github.com/FLMxN/kopernik)
+**Deep Learning, CNNs, XAI Research** —> [**Kopernik**](https://github.com/FLMxN/kopernik)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Quant Research, Data Analysis, Applied Mathematics (Finance)** —> @ [False Promise](https://github.com/FLMxN/false-promise)
+**Quant Research, Data Analysis, Applied Mathematics (Finance)** —> [**False Promise**](https://github.com/FLMxN/false-promise)
 
 ![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff)
 
-**Low-Level, System Programming** —> @ [Taurine](https://github.com/FLMxN/taurine)
+**Low-Level, System Programming** —> [**Taurine**](https://github.com/FLMxN/taurine)
 
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 
 ## feats @ live production
 
-**Business/System Analysis, SMM, Infrastructure** —> @ [EnneAI](https://github.com/Gl0wdy/EnneAI)
+**Business/System Analytics, SMM, Infrastructure** —> [**EnneAI**](https://github.com/Gl0wdy/EnneAI)
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
