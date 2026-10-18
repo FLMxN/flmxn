@@ -1,15 +1,19 @@
 <div align="right">
-  <h1><i>"i can do anything i want... and so can you."</i></h1>
-  <img src="https://github.com/FLMxN/flmxn/blob/main/furuta_header.jpg" width=512/>
-  <p><b>systems ~ quant ~ infra</b></p>
+  <h2><i>"We don't start dialing at 9:30, because our clients are already answering the phone!"</i>
+  <p>— Mark Hanna (The Wolf of Wall Street, 2013)</p></h2>
+  <!-- <img src="https://github.com/FLMxN/flmxn/blob/main/furuta_header.jpg" width=512/> -->
+  <img src="https://github.com/FLMxN/flmxn/blob/main/jules.gif">
+  <p><b>quant ~ deep learning ~ systems</b></p>
 </div>
 
 <div align="left">
   
-## "autistic_applications.json"
+## tech stack @ stable
 
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
@@ -19,16 +23,22 @@
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
 
 ---
 
-## "adhd_ambitions.csv"
+## tech stack @ rolling
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)
+
+![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff)
 
 </div>
 <div align="center">
