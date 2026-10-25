@@ -48,7 +48,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Quant Research, Data Analysis, Applied Mathematics (Finance)** —> [**False Promise**](https://github.com/FLMxN/false-promise)
+**Quant Research, Statistics, Econometrics** —> [**False Promise**](https://github.com/FLMxN/false-promise)
 
 ![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff)
 
